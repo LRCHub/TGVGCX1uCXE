@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "ハートはお手上げ - Heart Ha Oteage",
+  "base_artist": "Airi Suzuki",
+  "createdAt": "2026-01-14T04:44:10.501556Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ハートはお手上げ",
+      "artist": "鈴木愛理",
+      "has_synced": true,
+      "path": "select/01_ハートはお手上げ_鈴木愛理.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ハートはお手上げ",
+      "artist": "鈴木　愛理",
+      "has_synced": true,
+      "path": "select/02_ハートはお手上げ_鈴木_愛理.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ハートはお手上げ",
+      "artist": "Airi Suzuki",
+      "has_synced": true,
+      "path": "select/03_ハートはお手上げ_Airi_Suzuki.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ハートはお手上げ",
+      "artist": "鈴木愛理",
+      "has_synced": true,
+      "path": "select/04_ハートはお手上げ_鈴木愛理.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ハートはお手上げ  (Instrumental)",
+      "artist": "Airi Suzuki",
+      "has_synced": false,
+      "path": "select/05_ハートはお手上げ_(Instrumental)_Airi_Suzuki.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ハートはお手上げ",
+      "artist": "鈴木愛理",
+      "has_synced": false,
+      "path": "select/pl_01_ハートはお手上げ_鈴木愛理.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "ハートはお手上げ",
+      "artist": "鈴木愛理",
+      "has_synced": false,
+      "path": "select/pl_02_ハートはお手上げ_鈴木愛理.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "ハートはお手上げ",
+      "artist": "鈴木愛理",
+      "has_synced": false,
+      "path": "select/pl_03_ハートはお手上げ_鈴木愛理.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "ハートはお手上げ (TV Size Ver.)",
+      "artist": "鈴木愛理",
+      "has_synced": false,
+      "path": "select/pl_04_ハートはお手上げ_(TV_Size_Ver.)_鈴木愛理.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "ハートはお手上げ(TV Size Ver.)",
+      "artist": "鈴木愛理",
+      "has_synced": false,
+      "path": "select/pl_05_ハートはお手上げ(TV_Size_Ver.)_鈴木愛理.txt"
+    }
+  ]
+}
